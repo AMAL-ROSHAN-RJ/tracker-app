@@ -1,2 +1,7 @@
-# tracker-app
-Lightweight issue dashboard (eval fixture)
+# TrackerApp
+
+TrackerApp is a lightweight issue dashboard for small teams.
+
+## Install
+
+pip install -r requirements.txt
